@@ -1,0 +1,15 @@
+/Users/artem/Desktop/Разработчик/C#/Homework5/Zadacha1/obj/Debug/net6.0/Zadacha1.csproj.AssemblyReference.cache
+/Users/artem/Desktop/Разработчик/C#/Homework5/Zadacha1/obj/Debug/net6.0/Zadacha1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artem/Desktop/Разработчик/C#/Homework5/Zadacha1/obj/Debug/net6.0/Zadacha1.AssemblyInfoInputs.cache
+/Users/artem/Desktop/Разработчик/C#/Homework5/Zadacha1/obj/Debug/net6.0/Zadacha1.AssemblyInfo.cs
+/Users/artem/Desktop/Разработчик/C#/Homework5/Zadacha1/obj/Debug/net6.0/Zadacha1.csproj.CoreCompileInputs.cache
+/Users/artem/Desktop/Разработчик/C#/Homework5/Zadacha1/bin/Debug/net6.0/Zadacha1
+/Users/artem/Desktop/Разработчик/C#/Homework5/Zadacha1/bin/Debug/net6.0/Zadacha1.deps.json
+/Users/artem/Desktop/Разработчик/C#/Homework5/Zadacha1/bin/Debug/net6.0/Zadacha1.runtimeconfig.json
+/Users/artem/Desktop/Разработчик/C#/Homework5/Zadacha1/bin/Debug/net6.0/Zadacha1.dll
+/Users/artem/Desktop/Разработчик/C#/Homework5/Zadacha1/bin/Debug/net6.0/Zadacha1.pdb
+/Users/artem/Desktop/Разработчик/C#/Homework5/Zadacha1/obj/Debug/net6.0/Zadacha1.dll
+/Users/artem/Desktop/Разработчик/C#/Homework5/Zadacha1/obj/Debug/net6.0/refint/Zadacha1.dll
+/Users/artem/Desktop/Разработчик/C#/Homework5/Zadacha1/obj/Debug/net6.0/Zadacha1.pdb
+/Users/artem/Desktop/Разработчик/C#/Homework5/Zadacha1/obj/Debug/net6.0/Zadacha1.genruntimeconfig.cache
+/Users/artem/Desktop/Разработчик/C#/Homework5/Zadacha1/obj/Debug/net6.0/ref/Zadacha1.dll
